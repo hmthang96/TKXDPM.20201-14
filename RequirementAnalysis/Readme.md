@@ -5,8 +5,8 @@ Teamwork cả nhóm:
 - Tạo lập tài khoản github, tạo lập folder theo yêu cầu.
 
 Phân tích cá nhân:
-Hoàng Mạnh Thắng : Phân tích các trường hợp có thể xảy ra khi các actor tương tác với nhau, lên sơ đồ tổng quan
-Trần Văn Hội : Phân tích chức năng cụ thể của Nhân viên bán hàng,khách
-Nguyễn Văn Sơn : Phân tích chức năng của Quản lý
-Tô Quang Trung : Phân tích chức năng cụ thể của Nhân viên kho hàng
-- Members nhớ đẩy files lên cho vào nhánh Branch riêng của cá nhân nhé. xong xuôi hợp lý sẽ đẩy vào nhánh Master
+- Hoàng Mạnh Thắng : Phân tích các trường hợp có thể xảy ra khi các actor tương tác với nhau, lên sơ đồ tổng quan
+- Trần Văn Hội : Phân tích chức năng cụ thể của Nhân viên bán hàng,khách
+- Nguyễn Văn Sơn : Phân tích chức năng của Quản lý
+- Tô Quang Trung : Phân tích chức năng cụ thể của Nhân viên kho hàng
+Members nhớ đẩy files lên cho vào nhánh Branch riêng của cá nhân nhé. xong xuôi hợp lý sẽ đẩy vào nhánh Master
